@@ -1,49 +1,91 @@
-<h2 align="left">Hi 👋! My name is Vivek Chaurasiya and I'm a Dotnet Full Stack Developer</h2>
+<!-- README.md -->
 
-###
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&width=1000&height=60&lines=Hello!+I'm+Vivek+Chaurasiya+A+Full+Stack+.NET+Developer;I+Love+Building+Modern+Web+Apps+%F0%9F%92%BB;Clean+Code+%7C+UI%2FUX+%7C+API+Design+%7C+Performance" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer gif"/>
+</p>
 
-###
+<h2 align="center">🚀 Full Stack .NET Developer | Crafting End-to-End Web Experiences</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🧰 Tech Toolbox
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,jquery,react" />
+</p>
 
-###
+### 🧠 Backend & Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_API-68217A?style=flat-square&logo=dotnet&logoColor=white"/>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🗃️ Databases & Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postman,swagger,vite" />
+</p>
 
-###
+---
 
-<br clear="both">
+## 🔄 Fun With Code (✨Animated)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+modern+APIs+with+ASP.NET+Core;Styling+pixel-perfect+UIs+with+Tailwind+CSS;Creating+reactive+frontends+with+React+%26+Vite;Optimizing+SQL+queries+like+a+boss;Debugging+with+Postman+%26+Swagger;Always+learning%2C+always+evolving+🚀" alt="Fun with Code Typing" />
+</p>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak & Trophies
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=false" width="60%" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧑‍💼 About Me
+
+- 🔭 I’m currently working on **.NET Core Web API & React Projects**
+- 💬 Ask me about **.NET Core, C#, Tailwind, SQL, React, MongoDB**
+- 📫 Reach me at: `Vivekchaurasiya@gmail.com`
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 🤝 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
+</p>
