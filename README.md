@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vwake-chaurasiya&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwake-chaurasiya&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -54,9 +54,9 @@
 ## 🔥 GitHub Streak & Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vwake-chaurasiya&theme=tokyonight&hide_border=false" width="60%" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vwake-chaurasiya&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
