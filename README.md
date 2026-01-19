@@ -2,14 +2,14 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&width=1000&height=60&lines=Hello!+I'm+Vivek+Chaurasiya+A+Full+Stack+.NET+Developer;I+Love+Building+Modern+Web+Apps+%F0%9F%92%BB;Clean+Code+%7C+UI%2FUX+%7C+API+Design+%7C+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&width=1000&height=60&lines=Hello!+I'm+Vivek+Chaurasiya+A+Full+Stack+Developer;I+Love+Building+Modern+Web+Apps+%F0%9F%92%BB;Clean+Code+%7C+UI%2FUX+%7C+API+Design+%7C+Performance" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer gif"/>
 </p>
 
-<h2 align="center">🚀 Full Stack .NET Developer | Crafting End-to-End Web Experiences</h2>
+<h2 align="center">🚀 Full Stack .NET Developer | Software Developer |  Crafting End-to-End Web Experiences | All University Rank- 4 at GFG POTD |Graduated in B.Tech [CSE] | ALUMINI OF GURU GOBIND SINGH INDRAPRASTA UNIVERSITY, NEW DELHI </h2>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 🧠 Backend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet, node" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web_API-68217A?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
