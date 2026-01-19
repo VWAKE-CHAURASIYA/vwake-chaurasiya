@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer gif"/>
 </p>
 
-<h2 align="center">🚀 Full Stack .NET Developer | Software Developer |  Crafting End-to-End Web Experiences | All University Rank- 4 at GFG POTD |Graduated in B.Tech [CSE] | ALUMINI OF GURU GOBIND SINGH INDRAPRASTA UNIVERSITY, NEW DELHI </h2>
+<h2 align="center">🚀 Full Stack .NET Developer | Crafting End-to-End Web Experiences | Top Performer </h2>
 
 ---
 
