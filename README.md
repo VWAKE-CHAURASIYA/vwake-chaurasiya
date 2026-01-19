@@ -17,7 +17,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,jquery,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,next,jquery" />
 </p>
 
 ### 🧠 Backend & Languages
@@ -65,7 +65,7 @@
 
 - 🔭 I’m currently working on **.NET Core Web API & React Projects**
 - 💬 Ask me about **.NET Core, C#, Tailwind, SQL, React, MongoDB**
-- 📫 Reach me at: `Vivekchaurasiya@gmail.com`
+- 📫 Reach me at: `Vivekchaurasiya2003@gmail.com`
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
@@ -73,10 +73,10 @@
 ## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/vwakechaurasiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vivekchaurasiya2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com">
@@ -87,5 +87,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vwake-chaurasiya&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
 </p>
