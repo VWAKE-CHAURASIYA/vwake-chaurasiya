@@ -17,19 +17,19 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,next,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,next," />
 </p>
 
 ### 🧠 Backend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet, node" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,node,dotnet, " />
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web_API-68217A?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
 
 ### 🗃️ Databases & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postman,swagger,vite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postman,swagger,vite,git" />
 </p>
 
 ---
