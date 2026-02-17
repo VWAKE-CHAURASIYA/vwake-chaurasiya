@@ -29,7 +29,7 @@
 
 ### 🗃️ Databases & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postman,swagger,vite,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postman,swagger,vite,git, vscode, visualstudiocode" />
 </p>
 
 ---
